@@ -3,5 +3,6 @@ public class Batman {
         System.out.println("Batman sucks");
         System.out.println("I will catch you joker");
         // more lines
+        // Batman has cool Batmobile
     }
 }
